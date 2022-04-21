@@ -1,2 +1,2 @@
 # Annnexe-Technique
-Annnexe Technique de ma thès de doctorat
+Annnexe Technique de ma thèse de doctorat
